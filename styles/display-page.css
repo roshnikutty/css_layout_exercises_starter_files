@@ -1,0 +1,44 @@
+.main{
+  	padding:30px;
+}
+
+
+.green{
+	background-color: green;
+}
+
+
+.blue{
+	background-color: blue;
+}
+
+.gray{
+  	background-color: gray;
+}
+
+
+.black {
+  	background-color: black;
+  }
+
+
+.orange {
+	background-color: orange;
+}
+
+.first_row{
+  display: inline-block;
+  height:200px;
+  width:50%;
+  border: solid 1px black;
+  font-size:0;
+}
+
+
+.second_row{
+  display: inline-block;
+  height:300px;
+  width: 33.33%;
+  border: solid 1px black;
+  font-size:0;
+}
